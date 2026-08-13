@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit: los secretos NUNCA van al repo
+.streamlit/secrets.toml
+
+# Herramientas locales
+.claude/
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+.DS_Store
